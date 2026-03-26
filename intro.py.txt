@@ -1,0 +1,10 @@
+A = input("Enter name:")
+B = input("Enter class:")
+C = input("section:")
+D = input("USN:")
+
+print("Hello")
+print("My name is", A)
+print("I am from class", B)
+print("Section", C)
+print("USN", D)
